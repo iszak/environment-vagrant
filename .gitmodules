@@ -1,0 +1,9 @@
+[submodule "provisioners/puppet"]
+	path = provisioners/puppet
+	url = git@github.com:iszak/environment-puppet.git
+[submodule "shell"]
+	path = shell
+	url = git@github.com:iszak/environment-shell.git
+[submodule "provisioners/shell"]
+	path = provisioners/shell
+	url = git@github.com:iszak/environment-shell.git
