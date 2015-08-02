@@ -2,3 +2,4 @@
 .vagrant/
 mount/
 .DS_Store
+Vagrantfile
