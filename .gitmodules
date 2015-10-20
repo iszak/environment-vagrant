@@ -1,9 +1,6 @@
-[submodule "provisioners/puppet"]
-	path = provisioners/puppet
-	url = git@github.com:iszak/environment-puppet.git
-[submodule "shell"]
-	path = shell
-	url = git@github.com:iszak/environment-shell.git
 [submodule "provisioners/shell"]
 	path = provisioners/shell
-	url = git@github.com:iszak/environment-shell.git
+	url = https://github.com/iszak/shell.git
+[submodule "provisioners/puppet"]
+	path = provisioners/puppet
+	url = https://github.com/iszak/puppet.git
